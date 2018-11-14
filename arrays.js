@@ -1,1 +1,1 @@
-chocolateBars = ["snickers","hundred grand", "kitkat", and "skittles"]
+chocolateBars = ['snickers','hundred grand', 'kitkat', and 'skittles'];
